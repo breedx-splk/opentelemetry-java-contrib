@@ -17,7 +17,7 @@ val otelVersion = "1.19.0"
 val DEPENDENCY_BOMS = listOf(
   "com.fasterxml.jackson:jackson-bom:2.13.4.20221013",
   "com.google.guava:guava-bom:31.1-jre",
-  "com.linecorp.armeria:armeria-bom:1.20.1",
+  "com.linecorp.armeria:armeria-bom:1.20.2",
   "org.junit:junit-bom:5.9.1",
   "io.grpc:grpc-bom:1.50.2",
   "io.opentelemetry:opentelemetry-bom:$otelVersion",
